@@ -3,7 +3,7 @@
 * `Goal` → Data Exploration, Data Modeling, and Visualization
 * `Project Summary` → Build a model to accurately predict whether the patients in the dataset have diabetes or not.
 
-__GO TO:__  [`Problem Description`](#ProblemStatement) 
+__GO TO:__  [`Problem Description`](#Problem-Statement) 
 [`Tasks`](#Tasks) [`Tool Used`](#Tools-Used)
 
 Tableau visualization, try it [here](https://public.tableau.com/app/profile/darkstar/viz/CapstoneProject_16346568736000/Diabetes#1)
