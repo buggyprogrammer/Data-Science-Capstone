@@ -1,4 +1,17 @@
 # Data Science Capstone Project
+
+* `Goal` → Data Exploration, Data Modeling, and Visualization
+* `Project Summary` → Build a model to accurately predict whether the patients in the dataset have diabetes or not.
+
+__GO TO:__  [`Problem Description`](#ProblemStatement) 
+[`Tasks`](#Tasks) [`Tool Used`](#Tools-Used)
+
+Tableau visualization, try it [here](https://public.tableau.com/app/profile/darkstar/viz/CapstoneProject_16346568736000/Diabetes#1)
+
+![viz](https://github.com/buggyprogrammer/Data-Science-Capstone/blob/master/Tableau%20viz/visualization.gif)
+
+
+
 ## Problem Statement
 NIDDK (National Institute of Diabetes and Digestive and Kidney Diseases) research creates knowledge about and treatments for the most chronic, costly, and consequential diseases.
 The dataset used in this project is originally from NIDDK. The objective is to predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset.
@@ -78,4 +91,4 @@ e. Create
 </details>
 
 ## Tools used
-|
+`Python`, `JupyterLab`, `Tableau`
